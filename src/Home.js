@@ -17,7 +17,7 @@ function Home() {
             id={"111211"}
             info="Echo Dot (3rd Gen) - Smart speaker with Alexa (Black)"
             rating={4}
-            price={3499}
+            price={"3,499"}
             image="https://m.media-amazon.com/images/I/61EXU8BuGZL._SX425_.jpg"
           />
           {/**product */}
@@ -25,7 +25,7 @@ function Home() {
             id={"111212"}
             info="Apple iPhone 14 Pro Max (256 GB) - Space Black"
             rating={5}
-            price={149900}
+            price={"1,49,990"}
             image="https://m.media-amazon.com/images/I/610pghkO81L._SL1500_.jpg"
           />
           {/**product */}
@@ -33,7 +33,7 @@ function Home() {
             id={"111213"}
             info="Optimum Nutrition (ON) Gold Standard 100% Whey Protein Powder 2 lbs"
             rating={4}
-            price={3119}
+            price={"3,199"}
             image="https://m.media-amazon.com/images/I/61ojTw0BylS._SL1500_.jpg"
           />
           {/**product */}
@@ -52,7 +52,7 @@ function Home() {
             id={"111215"}
             info="Samsung 123.9cm (49inches) Gaming Monitor with 32:9 Aspect Ratio Display and 240Hz Refresh Rate."
             rating={3}
-            price={130699}
+            price={"1,39,000"}
             image="https://m.media-amazon.com/images/I/51+iB9+5HKL._SL1000_.jpg"
           />
         </div>
@@ -63,7 +63,7 @@ function Home() {
             id={"111215"}
             info="Tata Tea Gold, Black Tea, Pouch, 500g"
             rating={4}
-            price={289}
+            price={"289"}
             image="https://m.media-amazon.com/images/I/51kEujuYlpL._SL1000_.jpg"
           />
           {/**product */}
@@ -77,10 +77,10 @@ function Home() {
           {/**product */}
           <Product
             id={"111216"}
-            info="Durex Real Feel Condoms for Men(Not for Lakshay Mahajan) - 10 Count| For Real Skin on Skin Feeling| Latex Free"
-            rating={3}
-            price={200}
-            image="https://m.media-amazon.com/images/I/61A14RJESAL._SL1000_.jpg"
+            info="Pigeon By Stovekraft Oven Toaster Grill (12624) 30 Liters Otg With Rotisserie, Oven Toaster And Grill For Grilling And Baking Cakes (Grey), Standard"
+            rating={4}
+            price={"4,500"}
+            image="https://m.media-amazon.com/images/I/51SHRLSCS0L._SL1000_.jpg"
           />
         </div>
       </div>
