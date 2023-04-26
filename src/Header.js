@@ -4,7 +4,14 @@ import amazonLogo from "./PngItem_12080.png";
 import SearchSharpIcon from "@mui/icons-material/SearchSharp";
 import ShoppingCartOutlinedIcon from "@mui/icons-material/ShoppingCartOutlined";
 import { Link } from "react-router-dom";
+import { useStateValue } from "./Stateprovider";
+
+
+
 function Header() {
+
+  const [{ basket} ] = useStateValue();
+
   return (
     <div className="header">
       {/*amazon logo */}
@@ -36,7 +43,7 @@ function Header() {
         <Link to="/checkout">
           <div className="header_optionBasket">
             <ShoppingCartOutlinedIcon />
-            <span className="header_optionLineTwo header_cartCount">0</span>
+            <span className="header_optionLineTwo header_cartCount">{basket?.length}</span>
           </div>
         </Link>
       </div>

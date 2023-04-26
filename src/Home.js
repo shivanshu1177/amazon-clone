@@ -14,34 +14,34 @@ function Home() {
         <div className="home_row">
           {/**product */}
           <Product
-            id={"111211"}
+            id={"0"}
             info="Echo Dot (3rd Gen) - Smart speaker with Alexa (Black)"
             rating={4}
-            price={"3,499"}
+            price={3499}
             image="https://m.media-amazon.com/images/I/61EXU8BuGZL._SX425_.jpg"
           />
           {/**product */}
           <Product
-            id={"111212"}
+            id={"1"}
             info="Apple iPhone 14 Pro Max (256 GB) - Space Black"
             rating={5}
-            price={"1,49,990"}
+            price={149990}
             image="https://m.media-amazon.com/images/I/610pghkO81L._SL1500_.jpg"
           />
           {/**product */}
           <Product
-            id={"111213"}
+            id={"2"}
             info="Optimum Nutrition (ON) Gold Standard 100% Whey Protein Powder 2 lbs"
             rating={4}
-            price={"3,199"}
+            price={3199}
             image="https://m.media-amazon.com/images/I/61ojTw0BylS._SL1500_.jpg"
           />
           {/**product */}
           <Product
-            id={"111214"}
+            id={"3"}
             info="Apple Watch Ultra [GPS + Cellular 49 mm] Smart Watch"
             rating={4}
-            price={"37,700"}
+            price={37700}
             image="https://m.media-amazon.com/images/I/810JR81LIsL._SL1500_.jpg"
           />
         </div>
@@ -49,10 +49,10 @@ function Home() {
         <div className="home_row">
           {/**product */}
           <Product
-            id={"111215"}
+            id={"4"}
             info="Samsung 123.9cm (49inches) Gaming Monitor with 32:9 Aspect Ratio Display and 240Hz Refresh Rate."
             rating={3}
-            price={"1,39,000"}
+            price={139000}
             image="https://m.media-amazon.com/images/I/51+iB9+5HKL._SL1000_.jpg"
           />
         </div>
@@ -60,26 +60,26 @@ function Home() {
         <div className="home_row">
           {/**product */}
           <Product
-            id={"111215"}
+            id={"5"}
             info="Tata Tea Gold, Black Tea, Pouch, 500g"
             rating={4}
-            price={"289"}
+            price={289}
             image="https://m.media-amazon.com/images/I/51kEujuYlpL._SL1000_.jpg"
           />
           {/**product */}
           <Product
-            id={"111215"}
+            id={"6"}
             info="Drawstring Backpack Bag Women&Men Sport Gym Sack Cinch Bag with Zipper Pockets (navy cartoon shark)"
             rating={5}
-            price={"4,933"}
+            price={4933}
             image="https://m.media-amazon.com/images/I/61nxueE0+jL._UL1000_.jpg"
           />
           {/**product */}
           <Product
-            id={"111216"}
+            id={"7"}
             info="Pigeon By Stovekraft Oven Toaster Grill (12624) 30 Liters Otg With Rotisserie, Oven Toaster And Grill For Grilling And Baking Cakes (Grey), Standard"
             rating={4}
-            price={"4,500"}
+            price={4500}
             image="https://m.media-amazon.com/images/I/51SHRLSCS0L._SL1000_.jpg"
           />
         </div>
